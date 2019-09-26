@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #da4343;
+    padding: 8px 20px !important;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0 0 6px rgb(117, 24, 24);
+}
+
+.navbar a {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 24px;
+    color: #fff;
+    margin: 0;
+    font-weight: 100;
+}

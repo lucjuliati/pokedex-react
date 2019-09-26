@@ -1,0 +1,171 @@
+
+
+#nome {
+    text-transform: capitalize;
+    margin-top: 20px;
+    font-size: 28px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.conteudo {
+    box-shadow: 0 0 12px #b8b8b8;
+    padding: 10px 30px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+}
+
+.sprite {
+    width: 120px;
+}
+
+.stats-nome {
+    line-height: 25px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.stats {
+    margin-top: 40px;
+    padding: 20px 4px;
+    background-color: #ececec;
+    border-radius: 8px;
+}
+
+span {
+    margin: 5px;
+}
+
+.progress-bar {
+    height: 20px;
+    border-radius: 5px;
+    margin: 6px;
+    max-width: 100%;
+}
+
+.progress-bar span {
+    color: #fff;
+    font-size: 14px;
+}
+
+.progress {
+    margin: 10px;
+}
+
+.navegar {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.navegar button {
+    outline: 0;
+    color: #222 !important;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+    padding: 4px 6px;
+    border: none;
+    transition: .2s;
+}
+
+.navegar button:hover {
+    color: #fff !important;
+    background-color: rgb(255, 84, 84);
+}
+
+.conteudo img {
+    width: 130px;
+    margin: 30px 12px;
+}
+
+.hab {
+    font-size: 20px !important;
+}
+
+.fire {
+    background: tomato;
+    border: 2px solid rgb(194, 41, 14);
+}
+
+.flying {
+    background: #c9c9c9;
+    border: 2px solid #adadad;
+}
+
+.poison {
+    background: #7a4ce6;
+    border: 2px solid #2d0c7a;
+}
+
+.ghost {
+    background: #604a94;
+    border: 2px solid #211b30;
+}
+
+.fighting {
+    background: #e67f71;
+    border: 2px solid #c05d50;
+}
+
+.bug {
+    background: #a6cf59;
+    border: 2px solid #7a9b3d;
+}
+
+.water {
+    background: dodgerblue;
+    border: 2px solid #1062b4;
+}
+
+.fairy {
+    background: #ff9bf7;
+    border: 2px solid #c549bb;
+}
+
+.dragon {
+    background: linear-gradient(180deg, rgba(69, 92, 218, 1) 0%, rgba(244, 47, 47, 1) 100%);
+    border: 2px solid #213294;
+}
+
+.steel {
+    background: #8d8d8d;
+    border: 2px solid #646464;
+}
+
+.grass {
+    background: #20c02e;
+    border: 2px solid #0f7a18;
+}
+
+.normal {
+    background: #e2c6b5;
+    border: 2px solid #ac795b;
+}
+
+.electric {
+    background: #ecc33d;
+    border: 2px solid #b49a27;
+}
+
+.ice {
+    background: #98d1e7;
+    border: 2px solid #35a1cc;
+}
+
+.psychic {
+    background: #ff60b0;
+    border: 2px solid #c02e77;
+}
+
+.ground {
+    background: #cf9a54;
+    border: 2px solid #9e7136;
+}
+
+.rock {
+    background: #af854d;
+    border: 2px solid #805b2b;
+}
+
+.dark {
+    background: #423729;
+    border: 2px solid #30281e;
+}
